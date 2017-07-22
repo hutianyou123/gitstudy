@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hyty00 fdfdfdfdfd
 kkkkkkkkkkkkk
+=======
+hyty00 fdfdfdfddfd
+kkkkkkkkkkkkk fgf
+>>>>>>> feature1
